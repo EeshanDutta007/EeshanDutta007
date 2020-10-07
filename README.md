@@ -15,9 +15,6 @@ Hi, My name is Eeshan Dutta. I am a 2nd Year Student at SRM-IST pursuing my Bach
 
 ![Eeshan's github stats](https://github-readme-stats.vercel.app/api?username=EeshanDutta007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EeshanDutta007&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact&hide=css)
-
-
 
 
 ![](https://komarev.com/ghpvc/?username=EeshanDutta007&color=blue)
