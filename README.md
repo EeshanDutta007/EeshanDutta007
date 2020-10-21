@@ -12,7 +12,7 @@ Hi, My name is Eeshan Dutta. I am a 2nd Year Student at SRM-IST pursuing my Bach
 - 🔔 Instagram:- [eeshan_dutta](https://www.instagram.com/eeshan_dutta/)
 - 🌱 Hackerearth :- [eeshan14](https://www.hackerearth.com/@eeshan14)
 
-<img src='https://github-readme-stats.vercel.app/api?username=EeshanDutta007&show_icons=true&theme=onedark' width='500'>
+<img src='https://github-readme-stats.vercel.app/api?username=EeshanDutta007&show_icons=true&theme=dark' width='500'>
 
 
 <p><img src="https://komarev.com/ghpvc/?username=EeshanDutta007&style=flat&color=e06c75&label=visitors"/></p>
