@@ -15,7 +15,7 @@ Hi, My name is Eeshan Dutta. I am a 2nd Year Student at SRM-IST from West Bengal
 2. Winners of SyntHacks - Best Health Application (Elixir).
 3. Winners of Codestellation - Best Mobile/Web App (MedWatch).
 4. Winner of Geekathon 2020 (SafeLink)
-5. Special Mention Award in SRM Hackathon
+5. Special Mention Award in SRM Hackathon (Stud-Bud)
 
 #### Other Events :- 
 1. Winner of Codestruck 2019 out of 200+ participants. (Competetive Coding Event by Microsoft Developer Club).
