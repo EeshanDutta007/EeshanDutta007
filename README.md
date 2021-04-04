@@ -30,7 +30,7 @@ Hi, My name is Eeshan Dutta. I am a 2nd Year Student at SRM-IST from West Bengal
 - 🔔 Instagram:- [eeshan_dutta](https://www.instagram.com/eeshan_dutta/)
 - 🌱 Hackerearth :- [eeshan14](https://www.hackerearth.com/@eeshan14)
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=EeshanDutta007&theme=dark" height = '150'/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=EeshanDutta007&theme=dark" height = '150' width='400'/>
 
 <img src='https://github-readme-stats.vercel.app/api?username=EeshanDutta007&show_icons=true&theme=dark' width='500'>
 
