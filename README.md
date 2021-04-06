@@ -17,7 +17,7 @@ Hi, My name is Eeshan Dutta. I am a 2nd Year Student at SRM-IST from West Bengal
 4. Winner of Geekathon 2020 (SafeLink)
 5. Special Mention Award in SRM Hackathon 2021 (Stud-Bud)
 6. Honourable Mention Award in Hacktrix Hackathon (ThinkArt)
-7. EchoAR track prize in Hacktrix Hackathon and project displayed in their Inspiration Page (ThinkArt).
+7. EchoAR track prize in Hacktrix Hackathon and project displayed in EchoAr Inspiration Page (ThinkArt).
 
 #### Other Events :- 
 1. Winner of Codestruck 2019 out of 200+ participants. (Competetive Coding Event by Microsoft Developer Club).
