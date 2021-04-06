@@ -16,13 +16,16 @@ Hi, My name is Eeshan Dutta. I am a 2nd Year Student at SRM-IST from West Bengal
 3. Winners of Codestellation 2020 - Best Mobile/Web App (MedWatch).
 4. Winner of Geekathon 2020 (SafeLink)
 5. Special Mention Award in SRM Hackathon 2021 (Stud-Bud)
+6. Honourable Mention Award in Hacktrix Hackathon (ThinkArt)
+7. EchoAR track prize in Hacktrix Hackathon and project displayed in their Inspiration Page (ThinkArt).
 
 #### Other Events :- 
 1. Winner of Codestruck 2019 out of 200+ participants. (Competetive Coding Event by Microsoft Developer Club).
 2. Winner of Codigo 2020. (Competetive Coding Event by Aakash Research Lab).
 3. 3rd in Bug Crush 2020. (Error Solving in code competition by Codechef SRM Club).
 4. Winner of Coder's Hunt. (Treasure Hunt Event by GeekForGeeks SRM).
-5. 10+ awards in Debating/Munning all over India (Both as a Delegate/Judge).
+5. Winner of Pirates of Codebbean. (Coding Treasure Hunt Event by GCC SRM)
+6. 10+ awards in Debating/Munning all over India (Both as a Delegate/Judge).
 
 ## printf("\n Hello World!! 😃");
 - 💬 Ask me about anything and everything.
