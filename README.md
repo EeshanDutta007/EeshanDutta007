@@ -6,7 +6,9 @@
 
 Hi, My name is Eeshan Dutta. I am a 2nd Year Student at SRM-IST from West Bengal pursuing my Bachelor's Degree in Computer Science and Engineering. I am a 19 year old kid, doing whatever code I like and can to make my and other lives around me more fun.
 
-#### Current Internship - Mentor Match India as Flutter App Developer.
+#### Internships 
+1. Mentor Match India as Flutter App Developer.
+2. The Sparks Foundation as Flutter App Developer.
 
 ## Achievements :- 
 
@@ -18,6 +20,7 @@ Hi, My name is Eeshan Dutta. I am a 2nd Year Student at SRM-IST from West Bengal
 5. Special Mention Award in SRM Hackathon 2021 (Stud-Bud)
 6. Honourable Mention Award in Hacktrix Hackathon (ThinkArt)
 7. EchoAR track prize in Hacktrix Hackathon and project displayed in EchoAr Inspiration Page (ThinkArt).
+8. Top 10 in IIIT Lucknow Hackathon (ScholarAid)
 
 #### Other Events :- 
 1. Winner of Codestruck 2019 out of 200+ participants. (Competetive Coding Event by Microsoft Developer Club).
