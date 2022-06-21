@@ -8,8 +8,8 @@ Hi, My name is Eeshan Dutta. I am a 3rd Year Student at SRM-IST from West Bengal
 
 #### Internships 
 1. Incoming Globalink Mitacs Research Intern at Persuasive Computing Lab in Dalhousie University, Halifax.
-2. Blockchain Developer and Analyst Intern at Nethermind.
-3. Technical Content Engineer at HackerEarth
+2. Technical Content Engineer at HackerEarth.
+3. Blockchain Developer and Analyst Intern at Nethermind. 
 4. Mentor Match India as Flutter App Developer.
 5. The Sparks Foundation as Flutter App Developer.
 
