@@ -7,11 +7,12 @@
 Hi, My name is Eeshan Dutta. I am a 3rd Year Student at SRM-IST from West Bengal pursuing my Bachelor's Degree in Computer Science and Engineering. I am a 19 year old kid, doing whatever code I like and can to make my and other lives around me more fun.
 
 #### Internships 
-1. Incoming Globalink Mitacs Research Intern at Persuasive Computing Lab in Dalhousie University, Halifax, Nova Scotia, Canada.
-2. Technical Content Engineer at HackerEarth.
-3. Blockchain Developer and Analyst Intern at Nethermind. 
-4. Mentor Match India as Flutter App Developer.
-5. The Sparks Foundation as Flutter App Developer.
+1. Software Developer Intern at Kaleyra (Present)
+2. Globalink Mitacs Research Intern at Persuasive Computing Lab in Dalhousie University, Halifax, Nova Scotia, Canada.
+3. Technical Content Engineer at HackerEarth.
+4. Blockchain Developer and Analyst Intern at Nethermind. 
+5. Mentor Match India as Flutter App Developer.
+6. The Sparks Foundation as Flutter App Developer.
 
 ## Achievements :- 
 
