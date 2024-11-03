@@ -7,7 +7,7 @@
 Hi, My name is Eeshan Dutta. I am a passout of SRM-IST. I am from West Bengal pursuing my Bachelor's Degree in Computer Science and Engineering. I am a 19 year old kid, doing whatever code I like and can to make my and other lives around me more fun.
 
 #### Internships 
-1. Software Developer at Kaleyra (Present) (Since July 2023)
+1. Software Developer at Tata Communications (then Kaleyra) (Present) (Since July 2023)
 2. Globalink Mitacs Research Intern at Persuasive Computing Lab in Dalhousie University, Halifax, Nova Scotia, Canada.
 3. Technical Content Engineer at HackerEarth.
 4. Blockchain Developer and Analyst Intern at Nethermind. 
